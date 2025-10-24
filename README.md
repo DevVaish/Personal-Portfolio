@@ -1,36 +1,74 @@
-# Personal Portfolio Website in React
+#Personal Portfolio Website 💼
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive and modern Personal Portfolio Website built using React, designed to showcase your skills, experience, and projects.
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+This project was bootstrapped with Create React App
+.
 
-Built using:
+##🚀 Features
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+Built using React
 
-In the /personal-portfolio, you can run:
+Styled with React-Bootstrap for responsive layouts
 
-### `npm start`
+Smooth CSS animations using Animate.css
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Fully responsive design
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Easy to customize for your personal information and projects
 
-### `npm test`
+##🛠️ Tech Stack
+Technology	Purpose
+React	Front-end framework
+React-Bootstrap	UI and responsive design
+Animate.css	Animations and transitions
+JavaScript (ES6+)	Core scripting language
+HTML5 & CSS3	Structure and styling
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##⚙️ Installation and Setup
 
-### `npm run build`
+Clone the repository
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### git clone https://github.com/DevVaish/Personal-Portfolio.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Navigate into the project folder
+
+### cd personal-portfolio
+
+Install dependencies
+
+
+### npm install
+
+
+Run the development server
+
+### npm start
+
+
+The app will start on http://localhost:3000
+.
+
+##🧪 Available Scripts
+
+In the project directory, you can run:
+
+### npm start
+
+Runs the app in development mode.
+The page reloads automatically when you make changes.
+
+### npm test
+
+Launches the test runner in watch mode.
+
+### npm run build
+
+Builds the app for production into the build folder.
+It optimizes the React code for best performance and minifies files.
+
+📄 License
+
+This project is open-source and available under the MIT License
+.
