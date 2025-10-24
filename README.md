@@ -1,11 +1,11 @@
-#Personal Portfolio Website 💼
+# Personal Portfolio Website 💼
 
 A responsive and modern Personal Portfolio Website built using React, designed to showcase your skills, experience, and projects.
 
 This project was bootstrapped with Create React App
 .
 
-##🚀 Features
+## 🚀 Features
 
 Built using React
 
@@ -17,7 +17,7 @@ Fully responsive design
 
 Easy to customize for your personal information and projects
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Technology	Purpose
 React	Front-end framework
 React-Bootstrap	UI and responsive design
@@ -25,7 +25,7 @@ Animate.css	Animations and transitions
 JavaScript (ES6+)	Core scripting language
 HTML5 & CSS3	Structure and styling
 
-##⚙️ Installation and Setup
+## ⚙️ Installation and Setup
 
 Clone the repository
 
@@ -50,7 +50,7 @@ Run the development server
 The app will start on http://localhost:3000
 .
 
-##🧪 Available Scripts
+## 🧪 Available Scripts
 
 In the project directory, you can run:
 
@@ -68,7 +68,7 @@ Launches the test runner in watch mode.
 Builds the app for production into the build folder.
 It optimizes the React code for best performance and minifies files.
 
-📄 License
+## 📄 License
 
 This project is open-source and available under the MIT License
 .
