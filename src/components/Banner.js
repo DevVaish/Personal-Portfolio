@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Vaishnavi`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Welcome to my portfolio! I’m Vaishnavi, a passionate Web Developer, Web Designer, and UI/UX Designer who loves turning creative ideas into interactive digital experiences. I specialize in building visually appealing, user-friendly, and responsive websites that combine clean design with smooth functionality. My goal is to craft meaningful digital solutions that not only look beautiful but also deliver seamless user experiences. Explore my work to see how I blend design and technology to bring ideas to life!</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => window.open('_blank')> Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
